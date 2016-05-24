@@ -81,3 +81,4 @@ $RECYCLE.BIN/
 # CoIDE
 /logs
 /Debug
+*.cogui
