@@ -82,3 +82,4 @@ $RECYCLE.BIN/
 /logs
 /Debug
 *.cogui
+cppInterruptTest.cogui
